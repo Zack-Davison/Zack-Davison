@@ -13,7 +13,7 @@ I'm an **IT Apprentice** at a fintech company in **Belfast**, passionate about e
 Check out my **[IoT Sensor Logging System](https://github.com/Zack-Davison/Iot-Sensor-logging-system)** – a project where I collect, transmit and visualize real-time sensor data. It’s a perfect mix of software, hardware, and data handling!  
 
 🌱 **Currently Learning**  
-- Cloud Convepts and GCP
+- Cloud Concepts and GCP
 
 🎯 **Fun Fact / Interests**  
 - When I’m not coding and learning I like to golf ⛳️  
