@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Zack Davison
 
-I'm an **IT Apprentice** at a fintech company in **Belfast**, passionate about building smart, scalable solutions and exploring the latest in tech.
+I'm an **IT Apprentice** at a fintech company in **Belfast**, passionate about exploring, learning and building all things related to technology.
 
 💻 **What I Like To Do**  
 - Python & JavaScript development  
 - Full-stack web apps with **React.js**, **Express.js**, **Postgres**, and **Supabase**  
-- Learning **Cloud Computing** on **GCP**  
+- Learning **Cloud Computing** on **GCP**
+- Carry out IT support for my family business
  
 
 🚀 **Featured Project**  
@@ -32,3 +33,4 @@ Check out my **[IoT Sensor Logging System](https://github.com/Zack-Davison/Iot-S
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-F05032?style=flat&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
